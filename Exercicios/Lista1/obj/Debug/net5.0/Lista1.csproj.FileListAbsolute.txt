@@ -1,0 +1,16 @@
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\Lista1\bin\Debug\net5.0\Lista1.exe
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\Lista1\bin\Debug\net5.0\Lista1.deps.json
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\Lista1\bin\Debug\net5.0\Lista1.runtimeconfig.json
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\Lista1\bin\Debug\net5.0\Lista1.runtimeconfig.dev.json
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\Lista1\bin\Debug\net5.0\Lista1.dll
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\Lista1\bin\Debug\net5.0\ref\Lista1.dll
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\Lista1\bin\Debug\net5.0\Lista1.pdb
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\Lista1\obj\Debug\net5.0\Lista1.csproj.AssemblyReference.cache
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\Lista1\obj\Debug\net5.0\Lista1.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\Lista1\obj\Debug\net5.0\Lista1.AssemblyInfoInputs.cache
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\Lista1\obj\Debug\net5.0\Lista1.AssemblyInfo.cs
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\Lista1\obj\Debug\net5.0\Lista1.csproj.CoreCompileInputs.cache
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\Lista1\obj\Debug\net5.0\Lista1.dll
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\Lista1\obj\Debug\net5.0\ref\Lista1.dll
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\Lista1\obj\Debug\net5.0\Lista1.pdb
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\Lista1\obj\Debug\net5.0\Lista1.genruntimeconfig.cache
