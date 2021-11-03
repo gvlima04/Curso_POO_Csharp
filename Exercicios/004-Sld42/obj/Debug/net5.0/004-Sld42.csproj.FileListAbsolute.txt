@@ -1,0 +1,16 @@
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\004-Sld42\obj\Debug\net5.0\004-Sld42.csproj.AssemblyReference.cache
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\004-Sld42\obj\Debug\net5.0\004-Sld42.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\004-Sld42\obj\Debug\net5.0\004-Sld42.AssemblyInfoInputs.cache
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\004-Sld42\obj\Debug\net5.0\004-Sld42.AssemblyInfo.cs
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\004-Sld42\obj\Debug\net5.0\004-Sld42.csproj.CoreCompileInputs.cache
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\004-Sld42\bin\Debug\net5.0\004-Sld42.exe
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\004-Sld42\bin\Debug\net5.0\004-Sld42.deps.json
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\004-Sld42\bin\Debug\net5.0\004-Sld42.runtimeconfig.json
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\004-Sld42\bin\Debug\net5.0\004-Sld42.runtimeconfig.dev.json
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\004-Sld42\bin\Debug\net5.0\004-Sld42.dll
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\004-Sld42\bin\Debug\net5.0\ref\004-Sld42.dll
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\004-Sld42\bin\Debug\net5.0\004-Sld42.pdb
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\004-Sld42\obj\Debug\net5.0\004-Sld42.dll
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\004-Sld42\obj\Debug\net5.0\ref\004-Sld42.dll
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\004-Sld42\obj\Debug\net5.0\004-Sld42.pdb
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\004-Sld42\obj\Debug\net5.0\004-Sld42.genruntimeconfig.cache
