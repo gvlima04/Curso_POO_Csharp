@@ -1,0 +1,16 @@
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\005_Sld51-Construtor\obj\Debug\net5.0\005_Sld51-Construtor.csproj.AssemblyReference.cache
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\005_Sld51-Construtor\obj\Debug\net5.0\005_Sld51-Construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\005_Sld51-Construtor\obj\Debug\net5.0\005_Sld51-Construtor.AssemblyInfoInputs.cache
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\005_Sld51-Construtor\obj\Debug\net5.0\005_Sld51-Construtor.AssemblyInfo.cs
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\005_Sld51-Construtor\obj\Debug\net5.0\005_Sld51-Construtor.csproj.CoreCompileInputs.cache
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\005_Sld51-Construtor\bin\Debug\net5.0\005_Sld51-Construtor.exe
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\005_Sld51-Construtor\bin\Debug\net5.0\005_Sld51-Construtor.deps.json
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\005_Sld51-Construtor\bin\Debug\net5.0\005_Sld51-Construtor.runtimeconfig.json
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\005_Sld51-Construtor\bin\Debug\net5.0\005_Sld51-Construtor.runtimeconfig.dev.json
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\005_Sld51-Construtor\bin\Debug\net5.0\005_Sld51-Construtor.dll
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\005_Sld51-Construtor\bin\Debug\net5.0\ref\005_Sld51-Construtor.dll
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\005_Sld51-Construtor\bin\Debug\net5.0\005_Sld51-Construtor.pdb
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\005_Sld51-Construtor\obj\Debug\net5.0\005_Sld51-Construtor.dll
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\005_Sld51-Construtor\obj\Debug\net5.0\ref\005_Sld51-Construtor.dll
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\005_Sld51-Construtor\obj\Debug\net5.0\005_Sld51-Construtor.pdb
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\005_Sld51-Construtor\obj\Debug\net5.0\005_Sld51-Construtor.genruntimeconfig.cache
