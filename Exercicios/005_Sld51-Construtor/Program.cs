@@ -15,10 +15,10 @@ namespace _005_Sld51_Construtor
             Console.Write("Preço: ");
             double preco = double.Parse(Console.ReadLine());
 
-            Produto prod1 = new Produto(nome, preco);
-
             Console.Write("Quantidade em estoque: ");
-            prod1.Quantidade = int.Parse(Console.ReadLine());
+            int quantidade = int.Parse(Console.ReadLine());
+
+            Produto prod1 = new Produto(nome, preco, quantidade);
 
             double valTotal = prod1.ValEstoque();
 
@@ -27,7 +27,7 @@ namespace _005_Sld51_Construtor
 
             while (menu != 0)
             {
-                Console.WriteLine("\nDigite: \n1 - para adicionar produtos aos estoque; \n2 - para retirar produtos do estoque; \n3 - para consultar o valor total em estoque; \n4 - Para imprimir os dados do produto; \n0 - sair.");
+                Console.WriteLine("\nDigite: \n1 - para adicionar produtos aos estoque; \n2 - para retirar produtos do estoque; \n3 - para consultar o valor total em estoque; \n4 - Para alterar o nome do Produto; \n5 - Para alterar o valor do produto; \n6 - Para imprimir os dados do produto; \n0 - sair.");
                 menu = int.Parse(Console.ReadLine());
 
                 switch (menu)
@@ -52,11 +52,21 @@ namespace _005_Sld51_Construtor
                         break;
 
                     case 4:
+                        System.Console.WriteLine("Novo nome do produto:");
+                        prod1.Nome = Console.ReadLine();
+                        break;
+
+                    case 5:
+                        System.Console.WriteLine("Novo preço do produto:");
+                        prod1.Preco = double.Parse(Console.ReadLine());
+                        break;
+
+                    case 6:
                         Console.WriteLine("Dados do Produto: " + prod1);
                         break;
 
                     default:
-                        Console.WriteLine("As opções disponíveis são 1, 2, 3, e 0.");
+                        Console.WriteLine("As opções disponíveis são 1, 2, 3, 4, 5, 6 e 0.");
                         break;
                 }
                 if (menu!=0)

@@ -2,23 +2,23 @@ using System;
 
 namespace _005_Sld51_Construtor
 {
-    public class Produto
+    internal class Produto
     {
-        public string Nome;
-        public double Preco;
-        public int Quantidade;
+        private string _nome;
+        private double _preco;
+        public int Quantidade { get; private set; } // Auto properties
 
-        public Produto(string nome, double preco)
+        public Produto(string nome, double preco)//Construtores
         { //Construtor 
-            Nome = nome;
-            Preco = preco;
+            _nome = nome.Substring(0, 1).ToUpper() + nome.Substring(1, nome.Length - 1);
+            _preco = preco;
             Quantidade = 0;
         }
 
         public Produto(string nome, double preco, int quantidade)
         {
-            Nome = nome;
-            Preco = preco;
+            _nome = nome.Substring(0, 1).ToUpper() + nome.Substring(1, nome.Length - 1);
+            _preco = preco;
             Quantidade = quantidade;
         }
 
@@ -26,9 +26,43 @@ namespace _005_Sld51_Construtor
         { //Construtor padrão
         }
 
+        //Properties
+        public string Nome
+        {
+            get { return _nome; }
+            set
+            {
+                if (value != null && value.Length >= 2)
+                {
+                    _nome = value.Substring(0, 1).ToUpper() + value.Substring(1, value.Length - 1);
+                }
+                else
+                {
+                    Console.WriteLine("O deve ter mais de um caracter");
+                }
+            }
+        }
+
+        public double Preco
+        {
+            get { return _preco; }
+            set
+            {
+                if (value > 0)
+                {
+                    _preco = value;
+                }
+                else
+                {
+                    Console.WriteLine("Valor não alterado. O produto não pode ser grátis");
+                }
+            }
+        }
+
+        //Métodos
         public double ValEstoque()
         {
-            return Quantidade * Preco;
+            return Quantidade * _preco;
         }
 
         public void AddEstoque(int qtd)
@@ -50,13 +84,12 @@ namespace _005_Sld51_Construtor
                 Console.WriteLine("Estoque atual contém " + Quantidade + " unidade(s). Retire um valor inferior ao escolhido.");
             }
 
-
         }
 
         public override string ToString()
         {
-            return "\nProduto: " + Nome
-                + "\nPreço: R$" + Preco.ToString("F2")
+            return "\nProduto: " + _nome
+                + "\nPreço: R$" + _preco.ToString("F2")
                 + "\nQuantidade em estoque: " + Quantidade
                 + "\nValor em estoque " + ValEstoque().ToString("F2");
         }
