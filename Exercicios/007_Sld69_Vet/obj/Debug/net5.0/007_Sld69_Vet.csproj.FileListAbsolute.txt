@@ -1,0 +1,16 @@
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\007_Sld69_Vet\bin\Debug\net5.0\007_Sld69_Vet.exe
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\007_Sld69_Vet\bin\Debug\net5.0\007_Sld69_Vet.deps.json
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\007_Sld69_Vet\bin\Debug\net5.0\007_Sld69_Vet.runtimeconfig.json
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\007_Sld69_Vet\bin\Debug\net5.0\007_Sld69_Vet.runtimeconfig.dev.json
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\007_Sld69_Vet\bin\Debug\net5.0\007_Sld69_Vet.dll
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\007_Sld69_Vet\bin\Debug\net5.0\ref\007_Sld69_Vet.dll
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\007_Sld69_Vet\bin\Debug\net5.0\007_Sld69_Vet.pdb
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\007_Sld69_Vet\obj\Debug\net5.0\007_Sld69_Vet.csproj.AssemblyReference.cache
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\007_Sld69_Vet\obj\Debug\net5.0\007_Sld69_Vet.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\007_Sld69_Vet\obj\Debug\net5.0\007_Sld69_Vet.AssemblyInfoInputs.cache
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\007_Sld69_Vet\obj\Debug\net5.0\007_Sld69_Vet.AssemblyInfo.cs
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\007_Sld69_Vet\obj\Debug\net5.0\007_Sld69_Vet.csproj.CoreCompileInputs.cache
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\007_Sld69_Vet\obj\Debug\net5.0\007_Sld69_Vet.dll
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\007_Sld69_Vet\obj\Debug\net5.0\ref\007_Sld69_Vet.dll
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\007_Sld69_Vet\obj\Debug\net5.0\007_Sld69_Vet.pdb
+C:\workspace\Cursos\030_C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\007_Sld69_Vet\obj\Debug\net5.0\007_Sld69_Vet.genruntimeconfig.cache

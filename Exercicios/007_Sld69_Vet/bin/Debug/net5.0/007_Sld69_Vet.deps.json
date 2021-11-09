@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "007_Sld69_Vet/1.0.0": {
+        "runtime": {
+          "007_Sld69_Vet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "007_Sld69_Vet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
