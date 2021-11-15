@@ -5,7 +5,8 @@ namespace _003_Sld39_Classes
     class Program
     {
         static void Main(string[] args)
-        {
+        {   
+            Console.ReadLine();
             Triangulo x,y;
 
             x = new Triangulo();
